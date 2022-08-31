@@ -1,4 +1,4 @@
-### What's up? I'm Sidiney. So, say hello for my little page! 👋
+### What's up? I'm Sidiney. So, say hello to my little page! 👋
 
 
 - 🌱 I’m currently learning ...
