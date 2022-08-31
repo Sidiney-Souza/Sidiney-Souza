@@ -9,7 +9,12 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sidiney-Souza&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidiney-Souza&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+  
 <br>
+  
+<div align="center">
+ <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sidiney-Souza&theme=dark&background=000000"/>
+</div>
 
 <div align="center">
   <div style="display: inline-block"><br>
@@ -22,6 +27,8 @@
   <br>
   <br>
   
+  
+  
 <div> 
   <a href="https://www.youtube.com/channel/UCmNuUlGagll8_BLM6OE66iw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/sidiney_souza.1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -29,12 +36,6 @@
   
 </div>
 
-### :fire: My Stats 
-<div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-Sidiney-Souza&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-</div>
 
 
 </div>
