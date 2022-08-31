@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning ...
 
 
-<div align="center">
+<div>
   <a href="https://github.com/Sidiney-Souza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sidiney-Souza&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidiney-Souza&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sidiney-Souza&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidiney-Souza&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <br>
 
@@ -28,5 +28,14 @@
   <a href="https://www.linkedin.com/in/sidiney-barbosa-de-souza-194159235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+### :fire: My Stats 
+<div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+</div>
+
+
 </div>
 
