@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/Sidiney-Souza">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Sidiney-Souza&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidiney-Souza&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sidiney-Souza&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidiney-Souza&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <br>
 
@@ -31,7 +31,7 @@
 
 ### :fire: My Stats 
 <div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-Sidiney-Souza&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 </div>
